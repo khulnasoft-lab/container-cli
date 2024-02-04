@@ -7,7 +7,7 @@ require (
 	github.com/golang/mock v1.6.0
 	github.com/khulnasoft-lab/go-application-framework v0.0.0-20231114160628-a5f9fc7a9c25
 	github.com/opencontainers/go-digest v1.0.0
-	github.com/rs/zerolog v1.31.0
+	github.com/rs/zerolog v1.32.0
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.8.4
 	golang.org/x/exp v0.0.0-20240119083558-1b970713d09a
