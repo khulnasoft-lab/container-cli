@@ -1,6 +1,6 @@
 module github.com/khulnasoft-lab/container-cli
 
-go 1.21.6
+go 1.22.1
 
 require (
 	github.com/docker/distribution v2.8.3+incompatible
