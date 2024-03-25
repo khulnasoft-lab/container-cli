@@ -10,7 +10,7 @@ require (
 	github.com/rs/zerolog v1.31.0
 	github.com/spf13/pflag v1.0.5
 	github.com/stretchr/testify v1.8.4
-	golang.org/x/exp v0.0.0-20240119083558-1b970713d09a
+	golang.org/x/exp v0.0.0-20240325151524-a685a6edb6d8
 )
 
 require (
